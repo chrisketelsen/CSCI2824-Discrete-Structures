@@ -11,7 +11,7 @@
 
 * **Prerequisites**: 
 	* C- or better in Calculus 1 
-	* Completion of or concurrent enrollment in Data Structures (CSCI 2270) 
+	* C- or better in CSCI 1200, 1300, or 1320
 	* ability (or willingness to learn) to program in Python 3 
 
 * **Office Hours**: 
