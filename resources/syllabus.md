@@ -15,7 +15,7 @@
 	* ability (or willingness to learn) to program in Python 3 
 
 * **Office Hours**: 
-	* Chris: MW 11am-12:30pm in ECOT 731 / F 11am-12pm by appointment 
+	* Chris: MWF 11am-12pm in ECOT 731 
 	* Tony: TBA
 	* CAs: TBA
 	* Graders: TBA  
