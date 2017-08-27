@@ -30,7 +30,7 @@
 |        | 10.11        | 4.3             | Primes and GCD 							  |			    |			      | 
 |        | 10.13        | 4.4, 4.5        | Congruences and Applications              |			    | hmwk06 (written)| 
 | 8      | 10.16        |                 | **Midterm Exam Review**                   |			    |			      | 
-|        | 10.18        | 4.4             | Systems of Congruences/**Evening Midterm**|			    |			      | 
+|        | 10.18        | 4.4             | Systems of Congruences 					  |			    |			      | 
 |        | 10.20        | 4.6             | Cryptography                              |			    |       	      | 
 | 9      | 10.23        | 5.1             | Weak Induction                            |			    |			      | 
 |        | 10.25        | 5.2             | Strong Induction 						  |			    |			      | 
