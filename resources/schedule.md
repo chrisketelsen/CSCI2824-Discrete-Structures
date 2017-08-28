@@ -8,7 +8,7 @@
 
 | Week   | Date         | Reading         |                   Topic             	  | Slides      | Hmwk  	      | 
 |:------:|:------------:| ----------------| ------------------------------------------|-------------|-----------------|
-| 1      | 08.28        |                 | Discrete Intro. / Binary Arithmetic       |	[CK](goo.gl/bRwo3q)/[TW]() |			      | 
+| 1      | 08.28        |                 | Discrete Intro. / Binary Arithmetic       |	[CK](https://goo.gl/bRwo3q)/[TW]() |			      | 
 |        | 08.30        | 1.1             | Propositional Logic 					  |			    |     			  | 
 |        | 09.01        | 1.1, 1.2        | Propositional Logic and Applications      |			    |	     		  | 
 | 2      | 09.04        |                 | **LABOR DAY - NO CLASS**                  |			    |		     	  | 
