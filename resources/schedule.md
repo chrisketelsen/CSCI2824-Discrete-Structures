@@ -8,9 +8,9 @@
 
 | Week   | Date         | Reading         |                   Topic             	  | Slides      | Hmwk  	      | 
 |:------:|:------------:| ----------------| ------------------------------------------|-------------|-----------------|
-| 1      | 08.28        |                 | Discrete Intro. / Binary Arithmetic       |	[CK](https://goo.gl/bRwo3q)/[TW](http://www.cs.colorado.edu/~tonyewong/courses/CSCI2824/csci2824_lecture01_IntroAndBinaryArithmetic_before.pdf) |			      | 
-|        | 08.30        | 1.1             | Propositional Logic 					  |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson02.pdf)/[TW](http://www.cs.colorado.edu/~tonyewong/courses/CSCI2824/csci2824_lecture02_PropositionalLogicAndApplications.pdf)		    |  | 
-|        | 09.01        | 1.1, 1.2        | Propositional Logic and Applications      |			    |	     		  | 
+| 1      | 08.28        |                 | Discrete Intro. / Binary Arithmetic       |	[CK](https://goo.gl/bRwo3q)/[TW](https://drive.google.com/open?id=0BzfIQ3K44Vk4NmcwdzYzSGtqV1E) |			      | 
+|        | 08.30        | 1.1             | Propositional Logic 					  |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson02.pdf)/[TW](https://drive.google.com/open?id=0BzfIQ3K44Vk4QmEtWkl5YUM1TFE)		    |  | 
+|        | 09.01        | 1.1, 1.2        | Propositional Logic and Applications      |	[TW](https://drive.google.com/open?id=0BzfIQ3K44Vk4Q3dybTVUWXRWeEE)		    |	     		  | 
 | 2      | 09.04        |                 | **LABOR DAY - NO CLASS**                  |			    |		     	  | 
 |        | 09.06        | 1.3             | Logical Equivalences                      |			    |			      | 
 |        | 09.08        | 1.4             | Predicates and Quantifiers                |			    | hmwk01 (online) | 
