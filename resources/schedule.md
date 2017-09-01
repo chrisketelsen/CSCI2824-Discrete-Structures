@@ -10,7 +10,7 @@
 |:------:|:------------:| ----------------| ------------------------------------------|-------------|-----------------|
 | 1      | 08.28        |                 | Discrete Intro. / Binary Arithmetic       |	[CK](https://goo.gl/bRwo3q)/[TW](https://drive.google.com/open?id=0BzfIQ3K44Vk4NmcwdzYzSGtqV1E) |			      | 
 |        | 08.30        | 1.1             | Propositional Logic 					  |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson02.pdf)/[TW](https://drive.google.com/open?id=0BzfIQ3K44Vk4QmEtWkl5YUM1TFE)		    |  | 
-|        | 09.01        | 1.1, 1.2        | Propositional Logic and Applications      |	[TW](https://drive.google.com/open?id=0BzfIQ3K44Vk4Q3dybTVUWXRWeEE)		    |	     		  | 
+|        | 09.01        | 1.1, 1.2        | Propositional Logic and Applications      |	[CK](https://goo.gl/P9THMW)/[TW](https://drive.google.com/open?id=0BzfIQ3K44Vk4Q3dybTVUWXRWeEE)		    |	     		  | 
 | 2      | 09.04        |                 | **LABOR DAY - NO CLASS**                  |			    |		     	  | 
 |        | 09.06        | 1.3             | Logical Equivalences                      |			    |			      | 
 |        | 09.08        | 1.4             | Predicates and Quantifiers                |			    | hmwk01 (online) | 
