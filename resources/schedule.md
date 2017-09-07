@@ -13,7 +13,7 @@
 |        | 09.01        | 1.1, 1.2        | Propositional Logic and Applications      |	[CK](https://goo.gl/P9THMW)/[TW](https://goo.gl/V6YHwx)		    |	     		  | 
 | 2      | 09.04        |                 | **LABOR DAY - NO CLASS**                  |			    |		     	  | 
 |        | 09.06        | 1.3, [Norvig](http://norvig.com/sudoku.html)             | Logical Equivalences                      |	[CK](https://goo.gl/i2qDAQ)/[TW](https://goo.gl/3p5cc2)  |			      | 
-|        | 09.08        | 1.4             | Predicates and Quantifiers                |			    | [hmwk01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14500) | 
+|        | 09.08        | 1.4             | Predicates and Quantifiers                |	CK/[TW](https://goo.gl/FijVzm)		    | [hmwk01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14500) | 
 | 3      | 09.11        | 1.5             | Nested Quantifiers			              |			    |          		  | 
 |        | 09.13        | 1.6             | Rules of Inference		                  |			    |			      | 
 |        | 09.15        | 1.7             | Introduction to Proofs 	                  |			    | hmwk02 (written)| 
