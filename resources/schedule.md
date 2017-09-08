@@ -16,7 +16,7 @@
 |        | 09.08        | 1.4             | Predicates and Quantifiers                |	[CK](https://goo.gl/fGexTu)/[TW](https://goo.gl/FijVzm)		    | [hmwk01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14500) | 
 | 3      | 09.11        | 1.5             | Nested Quantifiers			              |			    |          		  | 
 |        | 09.13        | 1.6             | Rules of Inference		                  |			    |			      | 
-|        | 09.15        | 1.7             | Introduction to Proofs 	                  |			    | hmwk02 (written)| 
+|        | 09.15        | 1.7             | Introduction to Proofs 	                  |			    | [hmwk02 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7bzf3hxku56om)| 
 | 4      | 09.18        | 1.8             | Proof Methods and Strategy 	              |			    |			      | 
 |        | 09.20        | 2.1, 2.2        | Set Theory and Set Operations	 	      |			    |			      | 
 |        | 09.22        | 2.2, 2.5        | Set Operations and Functions      		  |			    | hmwk03 (online) | 
