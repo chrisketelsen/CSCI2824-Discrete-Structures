@@ -15,7 +15,7 @@
 |        | 09.06        | 1.3, [Norvig](http://norvig.com/sudoku.html)             | Logical Equivalences                      |	[CK](https://goo.gl/i2qDAQ)/[TW](https://goo.gl/3p5cc2)  |			      | 
 |        | 09.08        | 1.4             | Predicates and Quantifiers                |	[CK](https://goo.gl/fGexTu)/[TW](https://goo.gl/FijVzm)		    | [hmwk01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14500) | 
 | 3      | 09.11        | 1.5             | Nested Quantifiers			              |	[CK](https://goo.gl/SQ28ow)/[TW](https://goo.gl/GEfuet)		    |          		  | 
-|        | 09.13        | 1.6             | Rules of Inference		                  |	[CK](https://goo.gl/aKUXGF)/TW	    |			      | 
+|        | 09.13        | 1.6             | Rules of Inference		                  |	[CK](https://goo.gl/aKUXGF)/[TW](https://goo.gl/en6Pmh)	    |			      | 
 |        | 09.15        | 1.7             | Introduction to Proofs 	                  |			    | [hmwk02 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7bzf3hxku56om)| 
 | 4      | 09.18        | 1.8             | Proof Methods and Strategy 	              |			    |			      | 
 |        | 09.20        | 2.1, 2.2        | Set Theory and Set Operations	 	      |			    |			      | 
