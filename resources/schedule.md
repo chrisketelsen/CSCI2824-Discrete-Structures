@@ -9,12 +9,12 @@
 | Week   | Date         | Reading         |                   Topic             	  | Slides      | Hmwk  	      | 
 |:------:|:------------:| ----------------| ------------------------------------------|-------------|-----------------|
 | 1      | 08.28        |                 | Discrete Intro. / Binary Arithmetic       |	[CK](https://goo.gl/bRwo3q)/[TW](https://drive.google.com/open?id=0BzfIQ3K44Vk4NmcwdzYzSGtqV1E) |			      | 
-|        | 08.30        | 1.1             | Propositional Logic 					  |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson02.pdf)/[TW](https://goo.gl/UBD6XJ)		    |  | 
-|        | 09.01        | 1.1, 1.2        | Propositional Logic and Applications      |	[CK](https://goo.gl/P9THMW)/[TW](https://goo.gl/V6YHwx)		    |	     		  | 
+|        | 08.30        | 1.1             | Propositional Logic 					  |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson02.pdf)/[TW](https://goo.gl/DMjWb8)		    |  | 
+|        | 09.01        | 1.1, 1.2        | Propositional Logic and Applications      |	[CK](https://goo.gl/P9THMW)/[TW](https://goo.gl/3p5cc2)		    |	     		  | 
 | 2      | 09.04        |                 | **LABOR DAY - NO CLASS**                  |			    |		     	  | 
 |        | 09.06        | 1.3, [Norvig](http://norvig.com/sudoku.html)             | Logical Equivalences                      |	[CK](https://goo.gl/i2qDAQ)/[TW](https://goo.gl/3p5cc2)  |			      | 
-|        | 09.08        | 1.4             | Predicates and Quantifiers                |	[CK](https://goo.gl/fGexTu)/[TW](https://goo.gl/FijVzm)		    | [hmwk01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14500) | 
-| 3      | 09.11        | 1.5             | Nested Quantifiers			              |	[CK](https://goo.gl/SQ28ow)/[TW](https://goo.gl/GEfuet)		    |          		  | 
+|        | 09.08        | 1.4             | Predicates and Quantifiers                |	[CK](https://goo.gl/fGexTu)/[TW](https://goo.gl/RxP6WN)		    | [hmwk01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14500) | 
+| 3      | 09.11        | 1.5             | Nested Quantifiers			              |	[CK](https://goo.gl/SQ28ow)/[TW](https://goo.gl/eX4P4r)		    |          		  | 
 |        | 09.13        | 1.6             | Rules of Inference		                  |	[CK](https://goo.gl/aKUXGF)/[TW](https://goo.gl/en6Pmh)	    |			      | 
 |        | 09.15        | 1.7             | Introduction to Proofs 	                  |	CK/[TW](https://goo.gl/tWnyhJ)		    | [hmwk02 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7bzf3hxku56om)| 
 | 4      | 09.18        | 1.8             | Proof Methods and Strategy 	              |			    |			      | 
