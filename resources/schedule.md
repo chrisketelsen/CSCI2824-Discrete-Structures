@@ -18,7 +18,7 @@
 |        | 09.13        | 1.6             | Rules of Inference		                  |	[CK](https://goo.gl/aKUXGF)/[TW](https://goo.gl/en6Pmh)	    |			      | 
 |        | 09.15        | 1.7             | Introduction to Proofs 	                  |	[CK](https://goo.gl/TgGjuj)/[TW](https://goo.gl/Y8LdxS)		    | [hmwk02 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7bzf3hxku56om)| 
 | 4      | 09.18        | 1.8             | Proof Methods and Strategy 	              |	[CK](https://goo.gl/GubhfF)/[TW](https://goo.gl/4vTBiV)		    |			      | 
-|        | 09.20        | 2.1, 2.2        | Set Theory and Set Operations	 	      |			    |			      | 
+|        | 09.20        | 2.1, 2.2        | Set Theory and Set Operations	 	      |	CK/[TW](https://goo.gl/CB33JJ)		    |			      | 
 |        | 09.22        | 2.2, 2.5        | Set Operations and Functions      		  |			    | [hmwk03 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14508) | 
 | 5      | 09.25        | 2.3             | Functions and Cardinality-Lite 	 		  |			    |			      | 
 |        | 09.27        | 2.4             | Sequences 						  		  |			    |			      | 
