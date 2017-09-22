@@ -22,7 +22,7 @@
 |        | 09.22        | 2.2, 2.3        | Set Operations and Functions      		  |	CK/[TW](https://goo.gl/Tx4EQp)		    | [hmwk03 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14508) | 
 | 5      | 09.25        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		  |	[RA](https://goo.gl/PojJ8G)/[TW](https://goo.gl/MbUhkx)		    |			      | 
 |        | 09.27        | 2.4             | Sequences 						  		  |			    |			      | 
-|        | 09.29        | 3.1             | Algorithms 						  		  |			    | [hmwk04 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7vfj1jsgl2o3)| 
+|        | 09.29        | 3.1             | Algorithms 						  		  |			    | [hmwk04 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7vzzbtcn2r4aw)| 
 | 6      | 10.02        | 3.2, 3.3        | Complexity			                      |			    |			      | 
 |        | 10.04        | 3.3, 2.6        | Complexity and Matrix Operations          |			    |			      | 
 |        | 10.06        | 4.1, 4.2        | Divisibility and Modular Arithmetic		  |			    | hmwk05 (online) | 
