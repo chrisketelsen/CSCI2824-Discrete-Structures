@@ -25,7 +25,7 @@
 |        | 09.29        | 3.1             | Algorithms 						  		  |	[CK](https://goo.gl/aD4WEF)/[TW](https://goo.gl/Ssc9CS)		    | [hmwk04 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7vzzbtcn2r4aw)| 
 | 6      | 10.02        | 3.2, 3.3        | Complexity			                      |	[CK](https://goo.gl/3zatBf)/[TW](https://goo.gl/SH1gw2)		    |			      | 
 |        | 10.04        | 3.3, 2.6        | Complexity and Matrix Operations          |			    |			      | 
-|        | 10.06        | 4.1, 4.2        | Divisibility and Modular Arithmetic		  |			    | hmwk05 (online) | 
+|        | 10.06        | 4.1, 4.2        | Divisibility and Modular Arithmetic		  |			    | [hmwk05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14509) | 
 | 7      | 10.09        | 4.2             | Modular Exponentiation                    |			    |			      | 
 |        | 10.11        | 4.3             | Primes and GCD 							  |			    |			      | 
 |        | 10.13        | 4.4, 4.5        | Congruences and Applications              |			    | hmwk06 (written)| 
