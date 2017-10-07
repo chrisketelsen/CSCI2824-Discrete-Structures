@@ -28,7 +28,7 @@
 |        | 10.06        | 4.1, 4.2        | Divisibility and Modular Arithmetic		  |	[CK](https://goo.gl/Ynz7Dx)/[TW](https://goo.gl/HTVZg7)		    | [hmwk05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14509) | 
 | 7      | 10.09        | 4.2             | Modular Exponentiation                    |			    |			      | 
 |        | 10.11        | 4.3             | Primes and GCD 							  |			    |			      | 
-|        | 10.13        | 4.4, 4.5        | Congruences and Applications              |			    | hmwk06 (written)| 
+|        | 10.13        | 4.4, 4.5        | Congruences and Applications              |			    | [hmwk06 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j8g23g0bs7m6xk)| 
 | 8      | 10.16        |                 | **Midterm Exam Review**                   |			    |			      | 
 |        | 10.18        | 4.4             | Systems of Congruences 					  |			    |			      | 
 |        | 10.20        | 4.6             | Cryptography                              |			    |       	      | 
