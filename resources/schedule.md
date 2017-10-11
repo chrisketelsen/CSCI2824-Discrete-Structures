@@ -27,7 +27,7 @@
 |        | 10.04        | 3.3, 2.6        | Complexity and Matrix Operations          |	[CK](https://goo.gl/QCfr4y)/[TW](https://goo.gl/xxv8SC)		    |			      | 
 |        | 10.06        | 4.1, 4.2        | Divisibility and Modular Arithmetic		  |	[CK](https://goo.gl/Ynz7Dx)/[TW](https://goo.gl/9H7WJv)		    | [hmwk05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14509) | 
 | 7      | 10.09        | 4.2             | Modular Exponentiation                    |	[CK](https://goo.gl/6JTeWM)/[TW](https://goo.gl/iuVhu1)		    |			      | 
-|        | 10.11        | 4.3             | Primes and GCD 							  |	CK/[TW](https://goo.gl/ExUg5f)		    |			      | 
+|        | 10.11        | 4.3             | Primes and GCD 							  |	[CK](https://goo.gl/zKhyYx)/[TW](https://goo.gl/ExUg5f)		    |			      | 
 |        | 10.13        | 4.4, 4.5        | Congruences and Applications              |			    | [hmwk06 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j8g23g0bs7m6xk)| 
 | 8      | 10.16        |                 | **Midterm Exam Review**                   |			    |	[All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=17068)		      | 
 |        | 10.18        | 4.4             | Systems of Congruences 					  |			    |			      | 
