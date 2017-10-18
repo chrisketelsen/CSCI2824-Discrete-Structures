@@ -30,7 +30,7 @@
 |        | 10.11        | 4.3             | Primes and GCD 							  |	[CK](https://goo.gl/zKhyYx)/[TW](https://goo.gl/vrYz6Y)		    |			      | 
 |        | 10.13        | 4.4, 4.5        | Congruences and Applications              |	[CK](https://goo.gl/BHEfTg)/[TW](https://goo.gl/UH9eQi)		    | [hmwk06 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j8g23g0bs7m6xk)| 
 | 8      | 10.16        |                 | **Midterm Exam Review**                   |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/2824MidtermReview.pdf)/[TW](https://goo.gl/DRxUyQ)		    |	[All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=17068)		      | 
-|        | 10.18        | 4.4             | Systems of Congruences 					  |			    |			      | 
+|        | 10.18        | 4.4             | Systems of Congruences 					  |	CK/[TW](https://goo.gl/oTw9Mv)		    |			      | 
 |        | 10.20        | 4.6             | Cryptography                              |			    |       	      | 
 | 9      | 10.23        | 5.1             | Weak Induction                            |			    |			      | 
 |        | 10.25        | 5.2             | Strong Induction 						  |			    |			      | 
