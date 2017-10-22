@@ -32,7 +32,7 @@
 | 8      | 10.16        |                 | **Midterm Exam Review**                   |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/2824MidtermReview.pdf)/[TW](https://goo.gl/DRxUyQ)		    |	[All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=17068)		      | 
 |        | 10.18        | 4.4             | Systems of Congruences 					  |	[CK](https://goo.gl/guDtfe)/[TW](https://goo.gl/oTw9Mv)		    |			      | 
 |        | 10.20        | 4.6             | Cryptography                              |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson22.pdf)/[TW](https://goo.gl/a4Hc2C)		    |       	      | 
-| 9      | 10.23        | 5.1             | Weak Induction                            |			    |			      | 
+| 9      | 10.23        | 5.1             | Weak Induction                            |	CK/[TW](https://goo.gl/yqcyVD)		    |			      | 
 |        | 10.25        | 5.2             | Strong Induction 						  |			    |			      | 
 |        | 10.27        | 5.3, 5.4        | Recursion 								  |			    | [hmwk07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14510) | 
 | 10     | 10.30        | 6.1             | Counting  		                          |			    |			      | 
