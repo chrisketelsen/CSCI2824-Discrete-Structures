@@ -18,23 +18,23 @@
 |        | 09.13        | 1.6             | Rules of Inference		                  |	[CK](https://goo.gl/aKUXGF)/[TW](https://goo.gl/en6Pmh)	    |			      | 
 |        | 09.15        | 1.7             | Introduction to Proofs 	                  |	[CK](https://goo.gl/TgGjuj)/[TW](https://goo.gl/Y8LdxS)		    | [hmwk02 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7bzf3hxku56om)| 
 | 4      | 09.18        | 1.8             | Proof Methods and Strategy 	              |	[CK](https://goo.gl/GubhfF)/[TW](https://goo.gl/iq38iA)		    |			      | 
-|        | 09.20        | 2.1, 2.2        | Set Theory and Set Operations	 	      |	[CK](https://goo.gl/V3EhBC)/[TW](https://goo.gl/CB33JJ)		    |			      | 
-|        | 09.22        | 2.2, 2.3        | Set Operations and Functions      		  |	[CK](https://goo.gl/c5USdt)/[TW](https://goo.gl/Tx4EQp)		    | [hmwk03 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14508) | 
-| 5      | 09.25        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		  |	[CK](https://goo.gl/ff9Mya)/[TW](https://goo.gl/MbUhkx)		    |			      | 
-|        | 09.27        | 2.4             | Sequences 						  		  |			    |			      | 
-|        | 09.29        | 3.1             | Algorithms 						  		  |			    | [hmwk04 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7vzzbtcn2r4aw)| 
-| 6      | 10.02        | 3.2, 3.3        | Complexity			                      |			    |			      | 
-|        | 10.04        | 3.3, 2.6        | Complexity and Matrix Operations          |			    |			      | 
-|        | 10.06        | 4.1, 4.2        | Divisibility and Modular Arithmetic		  |			    | hmwk05 (online) | 
-| 7      | 10.09        | 4.2             | Modular Exponentiation                    |			    |			      | 
-|        | 10.11        | 4.3             | Primes and GCD 							  |			    |			      | 
-|        | 10.13        | 4.4, 4.5        | Congruences and Applications              |			    | hmwk06 (written)| 
-| 8      | 10.16        |                 | **Midterm Exam Review**                   |			    |			      | 
-|        | 10.18        | 4.4             | Systems of Congruences 					  |			    |			      | 
-|        | 10.20        | 4.6             | Cryptography                              |			    |       	      | 
+|        | 09.20        | 2.1, 2.2        | Set Theory and Set Operations	 	      |	[CK](https://goo.gl/V3EhBC)/[TW](https://goo.gl/escQYc)		    |			      | 
+|        | 09.22        | 2.2, 2.3        | Set Operations and Functions      		  |	[CK](https://goo.gl/c5USdt)/[TW](https://goo.gl/8nxbsC)		    | [hmwk03 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14508) | 
+| 5      | 09.25        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		  |	[CK](https://goo.gl/ff9Mya)/[TW](https://goo.gl/qnsjtY)		    |			      | 
+|        | 09.27        | 2.4             | Sequences 						  		  |	[CK](https://goo.gl/JRfJBi)/[TW](https://goo.gl/AcRxbD)		    |			      | 
+|        | 09.29        | 3.1             | Algorithms 						  		  |	[CK](https://goo.gl/aD4WEF)/[TW](https://goo.gl/Ssc9CS)		    | [hmwk04 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7vzzbtcn2r4aw)| 
+| 6      | 10.02        | 3.2, 3.3        | Complexity			                      |	[CK](https://goo.gl/3zatBf)/[TW](https://goo.gl/fhC1KQ)		    |			      | 
+|        | 10.04        | 3.3, 2.6        | Complexity and Matrix Operations          |	[CK](https://goo.gl/QCfr4y)/[TW](https://goo.gl/xxv8SC)		    |			      | 
+|        | 10.06        | 4.1, 4.2        | Divisibility and Modular Arithmetic		  |	[CK](https://goo.gl/Ynz7Dx)/[TW](https://goo.gl/9H7WJv)		    | [hmwk05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14509) | 
+| 7      | 10.09        | 4.2             | Modular Exponentiation                    |	[CK](https://goo.gl/6JTeWM)/[TW](https://goo.gl/iuVhu1)		    |			      | 
+|        | 10.11        | 4.3             | Primes and GCD 							  |	[CK](https://goo.gl/zKhyYx)/[TW](https://goo.gl/vrYz6Y)		    |			      | 
+|        | 10.13        | 4.4, 4.5        | Congruences and Applications              |	[CK](https://goo.gl/BHEfTg)/[TW](https://goo.gl/UH9eQi)		    | [hmwk06 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j8g23g0bs7m6xk)| 
+| 8      | 10.16        |                 | **Midterm Exam Review**                   |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/2824MidtermReview.pdf)/[TW](https://goo.gl/DRxUyQ)		    |	[All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=17068)		      | 
+|        | 10.18        | 4.4             | Systems of Congruences 					  |	[CK](https://goo.gl/guDtfe)/[TW](https://goo.gl/oTw9Mv)		    |			      | 
+|        | 10.20        | 4.6             | Cryptography                              |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson22.pdf)/[TW](https://goo.gl/a4Hc2C)		    |       	      | 
 | 9      | 10.23        | 5.1             | Weak Induction                            |			    |			      | 
 |        | 10.25        | 5.2             | Strong Induction 						  |			    |			      | 
-|        | 10.27        | 5.3, 5.4        | Recursion 								  |			    | hmwk07 (online) | 
+|        | 10.27        | 5.3, 5.4        | Recursion 								  |			    | [hmwk07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14510) | 
 | 10     | 10.30        | 6.1             | Counting  		                          |			    |			      | 
 |        | 11.01        | 6.2, 6.3        | The PHP + Perms and Combos                |			    |			      | 
 |        | 11.03        | 6.4, 6.5  	  | Perms and Combos + Binomial Theorem       |			    | hmwk08 (written)| 
