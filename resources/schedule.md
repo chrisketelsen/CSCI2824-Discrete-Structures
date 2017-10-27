@@ -37,7 +37,7 @@
 |        | 10.27        | 5.3, 5.4        | Recursion 								  |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson25.pdf)/[TW](https://goo.gl/RTfqs7)		    | [hmwk07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14510) | 
 | 10     | 10.30        | 6.1             | Counting  		                          |			    |			      | 
 |        | 11.01        | 6.2, 6.3        | The PHP + Perms and Combos                |			    |			      | 
-|        | 11.03        | 6.4, 6.5  	  | Perms and Combos + Binomial Theorem       |			    | hmwk08 (written)| 
+|        | 11.03        | 6.4, 6.5  	  | Perms and Combos + Binomial Theorem       |			    | [hmwk08 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j9aauiodmsj7s)| 
 | 11     | 11.06        | 7.1             | Basic Probability                         |			    |			      | 
 |        | 11.08        | 7.2             | Basic Probability Theory		          |			    |			      | 
 |        | 11.10        | 7.3             | Bayes' Theorem                            |			    | hmwk09 (online) | 
