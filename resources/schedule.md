@@ -34,7 +34,7 @@
 |        | 10.20        | 4.6             | Cryptography                              |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson22.pdf)/[TW](https://goo.gl/8gW28L)		    |       	      | 
 | 9      | 10.23        | 5.1             | Weak Induction                            |	[CK](https://goo.gl/JpHC53)/[TW](https://goo.gl/XFhKHY)		    |			      | 
 |        | 10.25        | 5.2             | Strong Induction 						  	    |	[CK](https://goo.gl/tBZ1o3)/[TW](https://goo.gl/f9BNBV)		      | | 
-|        | 10.27        | 5.3, 5.4        | Recursion 								  |	CK/[TW](https://goo.gl/RTfqs7)		    | [hmwk07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14510) | 
+|        | 10.27        | 5.3, 5.4        | Recursion 								  |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson25.pdf)/[TW](https://goo.gl/RTfqs7)		    | [hmwk07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14510) | 
 | 10     | 10.30        | 6.1             | Counting  		                          |			    |			      | 
 |        | 11.01        | 6.2, 6.3        | The PHP + Perms and Combos                |			    |			      | 
 |        | 11.03        | 6.4, 6.5  	  | Perms and Combos + Binomial Theorem       |			    | hmwk08 (written)| 
