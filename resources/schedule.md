@@ -40,7 +40,7 @@
 |        | 11.03        | 6.4, 6.5  	  | Perms and Combos + Binomial Theorem       |	[CK](https://goo.gl/iN8XwA)/[TW](https://goo.gl/h5z15E)		    | [hmwk08 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j9aauiodmsj7s)| 
 | 11     | 11.06        | 7.1             | Basic Probability                         |			    |			      | 
 |        | 11.08        | 7.2             | Basic Probability Theory		          |			    |			      | 
-|        | 11.10        | 7.3             | Bayes' Theorem                            |			    | hmwk09 (online) | 
+|        | 11.10        | 7.3             | Bayes' Theorem                            |			    | [hmwk09 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14511) | 
 | 12     | 11.13        | 7.3             | Applications of Bayes' Theorem            |			    |			      | 
 |        | 11.15        | 8.1             | Recurrences and Dynamic Programming	      |			    |			      | 
 |        | 11.17        | 8.2, 8.3        | Solving Linear Recurrences		          |			    | hmwk10 (written)| 
