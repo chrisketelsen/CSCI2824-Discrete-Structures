@@ -36,8 +36,8 @@
 |        | 10.25        | 5.2             | Strong Induction 						  	    |	[CK](https://goo.gl/tBZ1o3)/[TW](https://goo.gl/f9BNBV)		      | | 
 |        | 10.27        | 5.3, 5.4        | Recursion 								  |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson25.pdf)/[TW](https://goo.gl/RXm2wV)		    | [hmwk07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14510) | 
 | 10     | 10.30        | 6.1             | Counting  		                          |	[CK](https://goo.gl/phuP7j)/[TW](https://goo.gl/smoTXw)		    |			      | 
-|        | 11.01        | 6.2, 6.3        | The PHP + Perms and Combos                |	[CK](https://goo.gl/V43GQK)/[TW](https://goo.gl/Pbaadh)		    |			      | 
-|        | 11.03        | 6.4, 6.5  	  | Perms and Combos + Binomial Theorem       |	[CK](https://goo.gl/iN8XwA)/[TW](https://goo.gl/h5z15E)		    | [hmwk08 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j9aauiodmsj7s)| 
+|        | 11.01        | 6.2, 6.3        | The PHP + Perms and Combos                |	[CK](https://goo.gl/V43GQK)/[TW](https://goo.gl/TjBnox)		    |			      | 
+|        | 11.03        | 6.4, 6.5  	  | Perms and Combos + Binomial Theorem       |	[CK](https://goo.gl/iN8XwA)/[TW](https://goo.gl/cmv5M1)		    | [hmwk08 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j9aauiodmsj7s)| 
 | 11     | 11.06        | 7.1             | Basic Probability                         |	[CK](https://goo.gl/96Nddx)/[TW](https://goo.gl/MVkxra)		    |			      | 
 |        | 11.08        | 7.2             | Basic Probability Theory		          |	[CK](https://goo.gl/faykY7)/[TW](https://goo.gl/fLVBbX)		    |			      | 
 |        | 11.10        | 7.3             | Bayes' Theorem                            |			    | [hmwk09 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14511) | 
