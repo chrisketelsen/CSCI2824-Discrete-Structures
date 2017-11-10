@@ -39,7 +39,7 @@
 |        | 11.01        | 6.2, 6.3        | The PHP + Perms and Combos                |	[CK](https://goo.gl/V43GQK)/[TW](https://goo.gl/TjBnox)		    |			      | 
 |        | 11.03        | 6.4, 6.5  	  | Perms and Combos + Binomial Theorem       |	[CK](https://goo.gl/iN8XwA)/[TW](https://goo.gl/cmv5M1)		    | [hmwk08 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j9aauiodmsj7s)| 
 | 11     | 11.06        | 7.1             | Basic Probability                         |	[CK](https://goo.gl/96Nddx)/[TW](https://goo.gl/pTevbm)		    |			      | 
-|        | 11.08        | 7.2             | Basic Probability Theory		          |	[CK](https://goo.gl/faykY7)/[TW](https://goo.gl/fLVBbX)		    |			      | 
+|        | 11.08        | 7.2             | Basic Probability Theory		          |	[CK](https://goo.gl/faykY7)/[TW](https://goo.gl/HcoVVT)		    |			      | 
 |        | 11.10        | 7.3             | Bayes' Theorem                            |	[CK](https://goo.gl/CGNT1e)/[TW](https://goo.gl/aMJ26t)		    | [hmwk09 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14511) | 
 | 12     | 11.13        | 7.3             | Applications of Bayes' Theorem            |			    |			      | 
 |        | 11.15        | 8.1             | Recurrences and Dynamic Programming	      |			    |			      | 
