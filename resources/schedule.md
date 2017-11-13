@@ -41,7 +41,7 @@
 | 11     | 11.06        | 7.1             | Basic Probability                         |	[CK](https://goo.gl/96Nddx)/[TW](https://goo.gl/pTevbm)		    |			      | 
 |        | 11.08        | 7.2             | Basic Probability Theory		          |	[CK](https://goo.gl/faykY7)/[TW](https://goo.gl/HcoVVT)		    |			      | 
 |        | 11.10        | 7.3             | Bayes' Theorem                            |	[CK](https://goo.gl/CGNT1e)/[TW](https://goo.gl/aMJ26t)		    | [hmwk09 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14511) | 
-| 12     | 11.13        | 7.3             | Applications of Bayes' Theorem            |	CK/[TW](https://goo.gl/2KJ1Jg)		    |			      | 
+| 12     | 11.13        | 7.3             | Applications of Bayes' Theorem            |	[CK](https://goo.gl/Fc7sGv)/[TW](https://goo.gl/2KJ1Jg)		    |			      | 
 |        | 11.15        | 8.1             | Recurrences and Dynamic Programming	      |			    |			      | 
 |        | 11.17        | 8.2, 8.3        | Solving Linear Recurrences		          |			    | [hmwk10 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j9u3ec663ml3bp)| 
 | 13     | 11.20        |                 | **FALL BREAK - NO CLASS**                 |			    |			      | 
