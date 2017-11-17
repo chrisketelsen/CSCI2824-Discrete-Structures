@@ -43,7 +43,7 @@
 |        | 11.10        | 7.3             | Bayes' Theorem                            |	[CK](https://goo.gl/CGNT1e)/[TW](https://goo.gl/5dSxXF)		    | [hmwk09 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14511) | 
 | 12     | 11.13        | 7.3             | Applications of Bayes' Theorem            |	[CK](https://goo.gl/Fc7sGv)/[TW](https://goo.gl/y23Ezn)		    |			      | 
 |        | 11.15        | 8.1             | Recurrences and Dynamic Programming	      |	[CK](https://goo.gl/Rh9zgT)/[TW](https://goo.gl/vEiKS4)		    |			      | 
-|        | 11.17        | 8.2, 8.3        | Solving Linear Recurrences		          |	CK/[TW](https://goo.gl/NzkBkH)		    | [hmwk10 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j9u3ec663ml3bp)| 
+|        | 11.17        | 8.2, 8.3        | Solving Linear Recurrences		          |	[CK](https://goo.gl/LHoj6U)/[TW](https://goo.gl/NzkBkH)		    | [hmwk10 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j9u3ec663ml3bp)| 
 | 13     | 11.20        |                 | **FALL BREAK - NO CLASS**                 |			    |			      | 
 |        | 11.22        |                 | **FALL BREAK - NO CLASS**                 |			    |			      | 
 |        | 11.24        |                 | **FALL BREAK - NO CLASS**                 |			    |			      | 
