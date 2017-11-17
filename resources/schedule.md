@@ -49,7 +49,7 @@
 |        | 11.24        |                 | **FALL BREAK - NO CLASS**                 |			    |			      | 
 | 14     | 11.27        | 9.1, 9.2        | Basic Relations and Properties 			  |			    |			      | 
 |        | 11.29        | 9.5             | Equivalence Relations                     |			    |			      | 
-|        | 12.01        | 9.5, 10.1       | Relations and Databases / Basic Graphs    |			    | hmwk11 (online) | 
+|        | 12.01        | 9.5, 10.1       | Relations and Databases / Basic Graphs    |			    | [hmwk11 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14512) | 
 | 15     | 12.04        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |			    |			      | 
 |        | 12.06        | 10.8            | Graph Coloring and Scheduling Problems    |			    |			      | 
 |        | 12.08        | 11.1, 11.2      | Basic Trees                               |			    | hmwk12 (written)| 
