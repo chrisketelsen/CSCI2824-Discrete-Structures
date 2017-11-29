@@ -48,7 +48,7 @@
 |        | 11.22        |                 | **FALL BREAK - NO CLASS**                 |			    |			      | 
 |        | 11.24        |                 | **FALL BREAK - NO CLASS**                 |			    |			      | 
 | 14     | 11.27        | 8.2, 8.3        | Solving Recurrences, continued    			  |	[CK](https://goo.gl/v9mn6X)/[TW](https://goo.gl/5St1ZU)		    |			      | 
-|        | 11.29        | 9.1, 9.2        | Basic Relations and Properties            |	CK/[TW](https://goo.gl/EkZR9b)		    |			      | 
+|        | 11.29        | 9.1, 9.2        | Basic Relations and Properties            |	[CK](https://goo.gl/5FSxLp)/[TW](https://goo.gl/EkZR9b)		    |			      | 
 |        | 12.01        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |			    | [hmwk11 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14512) | 
 | 15     | 12.04        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |			    |			      | 
 |        | 12.06        | 10.8            | Graph Coloring and Scheduling Problems    |			    |			      | 
