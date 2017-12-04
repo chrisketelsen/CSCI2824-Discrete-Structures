@@ -49,8 +49,8 @@
 |        | 11.24        |                 | **FALL BREAK - NO CLASS**                 |			    |			      | 
 | 14     | 11.27        | 8.2, 8.3        | Solving Recurrences, continued    			  |	[CK](https://goo.gl/v9mn6X)/[TW](https://goo.gl/5St1ZU)		    |			      | 
 |        | 11.29        | 9.1, 9.2        | Basic Relations and Properties            |	[CK](https://goo.gl/5FSxLp)/[TW](https://goo.gl/y8HJLm)		    |			      | 
-|        | 12.01        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |	[CK](https://goo.gl/K9TC4n)/[TW](https://goo.gl/UVmYJf)		    | [hmwk11 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14512) | 
-| 15     | 12.04        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson38.pdf)/[TW](https://goo.gl/hnfF8D)		    |			      | 
+|        | 12.01        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |	[CK](https://goo.gl/K9TC4n)/[TW](https://goo.gl/QQ5Ftx)		    | [hmwk11 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14512) | 
+| 15     | 12.04        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson38.pdf)/[TW](https://goo.gl/zwbG9q)		    |			      | 
 |        | 12.06        | 10.8            | Graph Coloring and Scheduling Problems    |			    |			      | 
 |        | 12.08        | 11.1, 11.2      | Basic Trees                               |			    | [hmwk12 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/jao82ro2x2c37b)| 
 | 16     | 12.11        |                 | Structural Induction on Trees             |			    |			      | 
