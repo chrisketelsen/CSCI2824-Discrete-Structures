@@ -54,6 +54,6 @@
 |        | 12.06        | 10.8            | Graph Coloring and Scheduling Problems    |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson39.pdf)/[TW](https://goo.gl/Yfge7z)		    |			      | 
 |        | 12.08        | 11.1, 11.2      | Basic Trees                               |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson40.pdf)/[TW](https://goo.gl/iCp92r)		    | [hmwk12 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/jao82ro2x2c37b)| 
 | 16     | 12.11        |                 | Structural Induction on Trees             |	[CK](https://goo.gl/8tu91m)/[TW](https://goo.gl/fsifHC)		    |			      | 
-|        | 12.13        |                 | Huffman Encoding                          |			    |	[hmwk13 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/jaxk5o9uqw86k7)		      | 
+|        | 12.13        |                 | Huffman Encoding                          |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson42.pdf)/TW		    |	[hmwk13 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/jaxk5o9uqw86k7)		      | 
 |        | 12.15        |                 | **READING DAY - FINAL EXAM REVIEW**	      |			    |	[All Moodle (II)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=18062)		      | 
 | 17     | 12.XX        |                 | **FINAL EXAM**                            |			    |			      | 
