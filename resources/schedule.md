@@ -56,4 +56,4 @@
 | 16     | 12.11        |                 | Structural Induction on Trees             |	[CK](https://goo.gl/8tu91m)/[TW](https://goo.gl/fsifHC)		    |			      | 
 |        | 12.13        |                 | Huffman Encoding                          |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson42.pdf)/[TW](https://goo.gl/ULUuYB)		    |	[hmwk13 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/jb4qr1ljk5444x)		      | 
 |        | 12.15        |                 | **READING DAY - FINAL EXAM REVIEW**	      |			    |	[All Moodle (II)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=18062)		      | 
-| 17     | 12.XX        |                 | **FINAL EXAM**                            |			    |			      | 
+| 17     | 12.16        |                 | **FINAL EXAM**                            |			    |			      | 
