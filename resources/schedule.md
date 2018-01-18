@@ -13,13 +13,13 @@
 |        | 09.01        | 1.1, 1.2        | Propositional Logic and Applications      |	[CK](https://goo.gl/P9THMW)/[TW](https://goo.gl/3p5cc2)		    |	     		  | 
 | 2      | 09.04        |                 | **LABOR DAY - NO CLASS**                  |			    |		     	  | 
 |        | 09.06        | 1.3, [Norvig](http://norvig.com/sudoku.html)             | Logical Equivalences                      |	[CK](https://goo.gl/i2qDAQ)/[TW](https://goo.gl/3p5cc2)  |			      | 
-|        | 09.08        | 1.4             | Predicates and Quantifiers                |	[CK](https://goo.gl/fGexTu)/[TW](https://goo.gl/RxP6WN)		    | [hmwk01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14500) | 
+|        | 09.08        | 1.4             | Predicates and Quantifiers                |	[CK](https://goo.gl/fGexTu)/[TW](https://goo.gl/RxP6WN)		    | | 
 | 3      | 09.11        | 1.5             | Nested Quantifiers			              |	[CK](https://goo.gl/SQ28ow)/[TW](https://goo.gl/eX4P4r)		    |          		  | 
 |        | 09.13        | 1.6             | Rules of Inference		                  |	[CK](https://goo.gl/aKUXGF)/[TW](https://goo.gl/en6Pmh)	    |			      | 
-|        | 09.15        | 1.7             | Introduction to Proofs 	                  |	[CK](https://goo.gl/TgGjuj)/[TW](https://goo.gl/Y8LdxS)		    | [hmwk02 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7bzf3hxku56om)| 
+|        | 09.15        | 1.7             | Introduction to Proofs 	                  |	[CK](https://goo.gl/TgGjuj)/[TW](https://goo.gl/Y8LdxS)		    | | 
 | 4      | 09.18        | 1.8             | Proof Methods and Strategy 	              |	[CK](https://goo.gl/GubhfF)/[TW](https://goo.gl/iq38iA)		    |			      | 
 |        | 09.20        | 2.1, 2.2        | Set Theory and Set Operations	 	      |	[CK](https://goo.gl/V3EhBC)/[TW](https://goo.gl/escQYc)		    |			      | 
-|        | 09.22        | 2.2, 2.3        | Set Operations and Functions      		  |	[CK](https://goo.gl/c5USdt)/[TW](https://goo.gl/8nxbsC)		    | [hmwk03 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14508) | 
+|        | 09.22        | 2.2, 2.3        | Set Operations and Functions      		  |	[CK](https://goo.gl/c5USdt)/[TW](https://goo.gl/8nxbsC)		    | | 
 | 5      | 09.25        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		  |	[CK](https://goo.gl/ff9Mya)/[TW](https://goo.gl/qnsjtY)		    |			      | 
 |        | 09.27        | 2.4             | Sequences 						  		  |	[CK](https://goo.gl/JRfJBi)/[TW](https://goo.gl/AcRxbD)		    |			      | 
 |        | 09.29        | 3.1             | Algorithms 						  		  |	[CK](https://goo.gl/aD4WEF)/[TW](https://goo.gl/Ssc9CS)		    | [hmwk04 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7vzzbtcn2r4aw)| 
