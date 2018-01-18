@@ -29,7 +29,7 @@
 | 7      | 10.09        | 4.2             | Modular Exponentiation                    |	[CK](https://goo.gl/6JTeWM)/[TW](https://goo.gl/iuVhu1)		    |			      | 
 |        | 10.11        | 4.3             | Primes and GCD 							  |	[CK](https://goo.gl/zKhyYx)/[TW](https://goo.gl/vrYz6Y)		    |			      | 
 |        | 10.13        | 4.4, 4.5        | Congruences and Applications              |	[CK](https://goo.gl/BHEfTg)/[TW](https://goo.gl/UH9eQi)		    | | 
-| 8      | 10.16        |                 | **Midterm Exam Review**                   |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/2824MidtermReview.pdf)/[TW](https://goo.gl/DRxUyQ)		    |	[All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=17068)		      | 
+| 8      | 10.16        |                 | **Midterm Exam Review**                   |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/2824MidtermReview.pdf)/[TW](https://goo.gl/DRxUyQ)		    |		      | 
 |        | 10.18        | 4.4             | Systems of Congruences 					  |	[CK](https://goo.gl/guDtfe)/[TW](https://goo.gl/mq6tjJ)		    |			      | 
 |        | 10.20        | 4.6             | Cryptography                              |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson22.pdf)/[TW](https://goo.gl/8gW28L)		    |       	      | 
 | 9      | 10.23        | 5.1             | Weak Induction                            |	[CK](https://goo.gl/JpHC53)/[TW](https://goo.gl/XFhKHY)		    |			      | 
@@ -55,5 +55,5 @@
 |        | 12.08        | 11.1, 11.2      | Basic Trees                               |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson40.pdf)/[TW](https://goo.gl/iCp92r)		    | | 
 | 16     | 12.11        |                 | Structural Induction on Trees             |	[CK](https://goo.gl/8tu91m)/[TW](https://goo.gl/fsifHC)		    |			      | 
 |        | 12.13        |                 | Huffman Encoding                          |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson42.pdf)/[TW](https://goo.gl/ULUuYB)		    |			      | 
-|        | 12.15        |                 | **READING DAY - FINAL EXAM REVIEW**	      |	CK/[TW](https://goo.gl/DTKAGT)		    |	[All Moodle (II)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=18062)		      | 
+|        | 12.15        |                 | **READING DAY - FINAL EXAM REVIEW**	      |	CK/[TW](https://goo.gl/DTKAGT)		    |		      | 
 | 17     | 12.XX        |                 | **FINAL EXAM**                            |			    |			      | 
