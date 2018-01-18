@@ -22,38 +22,38 @@
 |        | 09.22        | 2.2, 2.3        | Set Operations and Functions      		  |	[CK](https://goo.gl/c5USdt)/[TW](https://goo.gl/8nxbsC)		    | | 
 | 5      | 09.25        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		  |	[CK](https://goo.gl/ff9Mya)/[TW](https://goo.gl/qnsjtY)		    |			      | 
 |        | 09.27        | 2.4             | Sequences 						  		  |	[CK](https://goo.gl/JRfJBi)/[TW](https://goo.gl/AcRxbD)		    |			      | 
-|        | 09.29        | 3.1             | Algorithms 						  		  |	[CK](https://goo.gl/aD4WEF)/[TW](https://goo.gl/Ssc9CS)		    | [hmwk04 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j7vzzbtcn2r4aw)| 
+|        | 09.29        | 3.1             | Algorithms 						  		  |	[CK](https://goo.gl/aD4WEF)/[TW](https://goo.gl/Ssc9CS)		    | | 
 | 6      | 10.02        | 3.2, 3.3        | Complexity			                      |	[CK](https://goo.gl/3zatBf)/[TW](https://goo.gl/fhC1KQ)		    |			      | 
 |        | 10.04        | 3.3, 2.6        | Complexity and Matrix Operations          |	[CK](https://goo.gl/QCfr4y)/[TW](https://goo.gl/xxv8SC)		    |			      | 
-|        | 10.06        | 4.1, 4.2        | Divisibility and Modular Arithmetic		  |	[CK](https://goo.gl/Ynz7Dx)/[TW](https://goo.gl/9H7WJv)		    | [hmwk05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14509) | 
+|        | 10.06        | 4.1, 4.2        | Divisibility and Modular Arithmetic		  |	[CK](https://goo.gl/Ynz7Dx)/[TW](https://goo.gl/9H7WJv)		    |  | 
 | 7      | 10.09        | 4.2             | Modular Exponentiation                    |	[CK](https://goo.gl/6JTeWM)/[TW](https://goo.gl/iuVhu1)		    |			      | 
 |        | 10.11        | 4.3             | Primes and GCD 							  |	[CK](https://goo.gl/zKhyYx)/[TW](https://goo.gl/vrYz6Y)		    |			      | 
-|        | 10.13        | 4.4, 4.5        | Congruences and Applications              |	[CK](https://goo.gl/BHEfTg)/[TW](https://goo.gl/UH9eQi)		    | [hmwk06 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j8g23g0bs7m6xk)| 
+|        | 10.13        | 4.4, 4.5        | Congruences and Applications              |	[CK](https://goo.gl/BHEfTg)/[TW](https://goo.gl/UH9eQi)		    | | 
 | 8      | 10.16        |                 | **Midterm Exam Review**                   |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/2824MidtermReview.pdf)/[TW](https://goo.gl/DRxUyQ)		    |	[All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=17068)		      | 
 |        | 10.18        | 4.4             | Systems of Congruences 					  |	[CK](https://goo.gl/guDtfe)/[TW](https://goo.gl/mq6tjJ)		    |			      | 
 |        | 10.20        | 4.6             | Cryptography                              |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson22.pdf)/[TW](https://goo.gl/8gW28L)		    |       	      | 
 | 9      | 10.23        | 5.1             | Weak Induction                            |	[CK](https://goo.gl/JpHC53)/[TW](https://goo.gl/XFhKHY)		    |			      | 
 |        | 10.25        | 5.2             | Strong Induction 						  	    |	[CK](https://goo.gl/tBZ1o3)/[TW](https://goo.gl/f9BNBV)		      | | 
-|        | 10.27        | 5.3, 5.4        | Recursion 								  |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson25.pdf)/[TW](https://goo.gl/RXm2wV)		    | [hmwk07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14510) | 
+|        | 10.27        | 5.3, 5.4        | Recursion 								  |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson25.pdf)/[TW](https://goo.gl/RXm2wV)		    |  | 
 | 10     | 10.30        | 6.1             | Counting  		                          |	[CK](https://goo.gl/phuP7j)/[TW](https://goo.gl/smoTXw)		    |			      | 
 |        | 11.01        | 6.2, 6.3        | The PHP + Perms and Combos                |	[CK](https://goo.gl/V43GQK)/[TW](https://goo.gl/TjBnox)		    |			      | 
-|        | 11.03        | 6.4, 6.5  	  | Perms and Combos + Binomial Theorem       |	[CK](https://goo.gl/iN8XwA)/[TW](https://goo.gl/cmv5M1)		    | [hmwk08 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j9aauiodmsj7s)| 
+|        | 11.03        | 6.4, 6.5  	  | Perms and Combos + Binomial Theorem       |	[CK](https://goo.gl/iN8XwA)/[TW](https://goo.gl/cmv5M1)		    | | 
 | 11     | 11.06        | 7.1             | Basic Probability                         |	[CK](https://goo.gl/96Nddx)/[TW](https://goo.gl/pTevbm)		    |			      | 
 |        | 11.08        | 7.2             | Basic Probability Theory		          |	[CK](https://goo.gl/faykY7)/[TW](https://goo.gl/HcoVVT)		    |			      | 
-|        | 11.10        | 7.3             | Bayes' Theorem                            |	[CK](https://goo.gl/CGNT1e)/[TW](https://goo.gl/5dSxXF)		    | [hmwk09 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14511) | 
+|        | 11.10        | 7.3             | Bayes' Theorem                            |	[CK](https://goo.gl/CGNT1e)/[TW](https://goo.gl/5dSxXF)		    |  | 
 | 12     | 11.13        | 7.3             | Applications of Bayes' Theorem            |	[CK](https://goo.gl/Fc7sGv)/[TW](https://goo.gl/y23Ezn)		    |			      | 
 |        | 11.15        | 8.1             | Recurrences and Dynamic Programming	      |	[CK](https://goo.gl/Rh9zgT)/[TW](https://goo.gl/vEiKS4)		    |			      | 
-|        | 11.17        | 8.2, 8.3        | Solving Linear Recurrences		          |	[CK](https://goo.gl/LHoj6U)/[TW](https://goo.gl/5St1ZU)		    | [hmwk10 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/j9u3ec663ml3bp)| 
+|        | 11.17        | 8.2, 8.3        | Solving Linear Recurrences		          |	[CK](https://goo.gl/LHoj6U)/[TW](https://goo.gl/5St1ZU)		    | | 
 | 13     | 11.20        |                 | **FALL BREAK - NO CLASS**                 |			    |			      | 
 |        | 11.22        |                 | **FALL BREAK - NO CLASS**                 |			    |			      | 
 |        | 11.24        |                 | **FALL BREAK - NO CLASS**                 |			    |			      | 
 | 14     | 11.27        | 8.2, 8.3        | Solving Recurrences, continued    			  |	[CK](https://goo.gl/v9mn6X)/[TW](https://goo.gl/5St1ZU)		    |			      | 
 |        | 11.29        | 9.1, 9.2        | Basic Relations and Properties            |	[CK](https://goo.gl/5FSxLp)/[TW](https://goo.gl/y8HJLm)		    |			      | 
-|        | 12.01        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |	[CK](https://goo.gl/K9TC4n)/[TW](https://goo.gl/QQ5Ftx)		    | [hmwk11 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=14512) | 
+|        | 12.01        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |	[CK](https://goo.gl/K9TC4n)/[TW](https://goo.gl/QQ5Ftx)		    |  | 
 | 15     | 12.04        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson38.pdf)/[TW](https://goo.gl/zwbG9q)		    |			      | 
 |        | 12.06        | 10.8            | Graph Coloring and Scheduling Problems    |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson39.pdf)/[TW](https://goo.gl/Yfge7z)		    |			      | 
-|        | 12.08        | 11.1, 11.2      | Basic Trees                               |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson40.pdf)/[TW](https://goo.gl/iCp92r)		    | [hmwk12 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/jao82ro2x2c37b)| 
+|        | 12.08        | 11.1, 11.2      | Basic Trees                               |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson40.pdf)/[TW](https://goo.gl/iCp92r)		    | | 
 | 16     | 12.11        |                 | Structural Induction on Trees             |	[CK](https://goo.gl/8tu91m)/[TW](https://goo.gl/fsifHC)		    |			      | 
-|        | 12.13        |                 | Huffman Encoding                          |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson42.pdf)/[TW](https://goo.gl/ULUuYB)		    |	[hmwk13 (written)](https://piazza.com/class_profile/get_resource/j6pcg3q79jl3c7/jb4qr1ljk5444x)		      | 
+|        | 12.13        |                 | Huffman Encoding                          |	[CK](https://www.cs.colorado.edu/~ketelsen/files/courses/csci2824/slides/lesson42.pdf)/[TW](https://goo.gl/ULUuYB)		    |			      | 
 |        | 12.15        |                 | **READING DAY - FINAL EXAM REVIEW**	      |	CK/[TW](https://goo.gl/DTKAGT)		    |	[All Moodle (II)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=18062)		      | 
 | 17     | 12.XX        |                 | **FINAL EXAM**                            |			    |			      | 
